@@ -1,7 +1,6 @@
 # 🤖 VersaBot
 
-VersaBot is an autonomous delivery robot built to enhance operational efficiency in environments such as restaurants, hospitals, warehouses, and offices. It leverages ultrasonic and infrared sensors for obstacle detection and features Bluetooth-based mobile app control for intuitive user interaction.
-
+VersaBot is a **semi-autonomous delivery robot** built as a **scaled-down working model** to demonstrate navigation and delivery capabilities in environments such as restaurants, hospitals, and warehouses. It is designed using affordable and accessible components like Arduino and Bluetooth modules and integrates basic obstacle detection, payload handling, and mobile app control.
 
 ---
 
